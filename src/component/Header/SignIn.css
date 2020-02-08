@@ -1,0 +1,12 @@
+.signin{
+    display:flex;
+    margin:0 auto;
+    margin-left: 100px;;
+}
+label {
+   
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+}
